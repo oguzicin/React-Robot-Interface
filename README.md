@@ -1,3 +1,24 @@
+<a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+
+<p><h2>Robot Control Interface</h2>
+
+This project is an interactive user interface built with React to control and manage robots, developed during my mandatory internship at a robotics firm. The interface provides real-time control of robot movements and settings through a clean, user-friendly layout. It aims to simplify the user experience for technicians and operators interacting with robotic systems.
+Features:
+
+Robot control with dynamic input fields
+Interactive buttons for specific robot movements and operations
+Responsive design ensuring compatibility with various devices
+Error handling and visual feedback for better user experience
+
+Feel free to explore the code, and any contributions or feedback are welcome!</p>
+
+### Built With
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,9 +59,13 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- CONTACT -->
+## Contact
 
-## Learn More
+Oguz Icin - <a href="https://linkedin.com/in/oguzicin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzicin" height="30" width="40" /></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
