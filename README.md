@@ -62,7 +62,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Oguz Icin - <a href="https://linkedin.com/in/oguzicin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzicin" height="30" width="40" /></a>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/oguzicin/React-Robot-Interface)
+Project Link: [Project](https://github.com/oguzicin/React-Robot-Interface)
 
 
 
