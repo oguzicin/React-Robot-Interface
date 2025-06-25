@@ -16,7 +16,7 @@ Feel free to explore the code, and any contributions or feedback are welcome!</p
 ### Built With
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,6 +64,6 @@ Oguz Icin - <a href="https://linkedin.com/in/oguzicin" target="blank"><img align
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
